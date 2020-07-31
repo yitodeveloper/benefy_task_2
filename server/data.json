@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Rodrigo",
+            "lastname": "Ramirez",
+            "mail": "yitodeveloper@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Alberto",
+            "lastname": "Ramirez",
+            "mail": "yitodeveloper@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Gustavo",
+            "lastname": "Perez",
+            "mail": "yitodeveloper@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "Pedro",
+            "lastname": "Ramirez",
+            "mail": "yitodeveloper@gmail.com"
+        }
+    ]
+}
